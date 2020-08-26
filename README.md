@@ -1,5 +1,5 @@
 # Asian Food Emojis
-A spinoff from Angela Yu's emojipedia React challenge.
+A spinoff from Angela Yu's emojipedia React challenge. This was an exercise in using React props, and I liked it so much to fork it and put my own twist on it!
 
 **08/25/2020** I'll soon upload my sandbox's files to this repo, along with populating the site with more great Asian food emojis!
 
