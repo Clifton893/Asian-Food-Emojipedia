@@ -4,6 +4,7 @@ body {
   line-height: 1.666;
   background: #ffe1d5;
   color: #555;
+  margin: auto 0;
 }
 
 /* Site Headline */
@@ -90,4 +91,25 @@ dd dl {
 
 dd dl .term {
   margin-bottom: 1rem;
+}
+
+/* Site Footer */
+
+footer {
+  position: relative;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  background-color: #ff3500;
+}
+
+footer p {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  height: 100%;
+  font-size: 16px;
+  color: #fff;
 }
