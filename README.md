@@ -8,3 +8,7 @@ A glossary of the unicode emojis, specifically the ones associated with Asian co
 
 ## Live Version
 [View on CodeSandbox](https://codesandbox.io/s/asian-food-emoji-react-exercise-5p897)
+
+## Credits
+- Angela Yu
+- O. Brown
