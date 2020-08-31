@@ -16,7 +16,8 @@ A spinoff from Angela Yu's emojipedia React challenge. This was an exercise in u
 - Nothing crazy! I just forked the [original](https://codesandbox.io/s/mapping-components-practice-6fkfr?fontsize=14) CodeSandbox; created my own array of Asian food emojis (using [Emojipedia](https://emojipedia.org/food-drink/)'s great descriptions), imported it into the app; and applied my own styles.;
 
 ## Why did you do it?
-- I love design! I chose [#ff3500](https://encycolorpedia.com/ff3500) (*shuiro*, "vermillion"), because that's traditionally the color of *Torii*, the ornate gates of Japanese Shinto shrines. ⛩
+- Because I love design! 
+- I chose [#ff3500](https://encycolorpedia.com/ff3500) (*shuiro*, "vermillion"), because that's traditionally the color of *Torii*, the ornate gates of Japanese Shinto shrines. ⛩
   - The color red also represents good fortune in Japan and China, another reason why I chose it. 
 - I looked at the tints of #ff3500 and saw that #ffe1d5 would be a great complimentary color for the page's background.
 
