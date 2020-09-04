@@ -20,7 +20,7 @@ A spinoff from Angela Yu's emojipedia React challenge. This was an exercise in u
 - Because I love design! 
 - I chose [#ff3500](https://encycolorpedia.com/ff3500) (*shuiro*, "vermillion"), because that's traditionally the color of *Torii*, the ornate gates of Japanese Shinto shrines. ⛩
   - The color red also represents good fortune in Japan and China, another reason why I chose it. 
-- I looked at the tints of #ff3500 and saw that #ffe1d5 would be a great complimentary color for the page's background.
+- I looked at the tints of `#ff3500` and saw that `#ffe1d5` would be a great complimentary color for the page's background.
 
 ## Live Version
 [View on CodeSandbox](https://codesandbox.io/s/asian-food-emoji-react-exercise-5p897)
