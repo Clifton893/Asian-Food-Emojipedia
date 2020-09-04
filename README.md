@@ -12,10 +12,10 @@ A spinoff from Angela Yu's emojipedia React challenge. This was an exercise in u
 ## What problem does it solve?
 - This was a practice exercise for mapping data to React props. It took me a little time (and many start-from-the-beginning retries), but I eventually got it! And I liked the Emojipedia concept so much, I saw an opportunity to put my own creative spin on the project.
 
-## What did you do?
+## What did I do?
 - Nothing crazy! I just forked the [original](https://codesandbox.io/s/mapping-components-practice-6fkfr?fontsize=14) CodeSandbox; created my own array of Asian food emojis (using [Emojipedia](https://emojipedia.org/food-drink/)'s great descriptions), imported it into the app; and applied my own styles.;
 
-## Why did you do it?
+## Why did I do it?
 - Because I love design! 
 - I chose [#ff3500](https://encycolorpedia.com/ff3500) (*shuiro*, "vermillion"), because that's traditionally the color of *Torii*, the ornate gates of Japanese Shinto shrines. ⛩
   - The color red also represents good fortune in Japan and China, another reason why I chose it. 
