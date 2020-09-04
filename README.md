@@ -1,12 +1,11 @@
-
 # Asian Food Emojis
 A spinoff from Angela Yu's emojipedia React challenge. This was an exercise in using React props; I liked it so much I forked it, and put my own twist on it!
 
-[See the site live!](https://codesandbox.io/s/asian-food-emoji-react-exercise-5p897)
+![readme-banner](https://user-images.githubusercontent.com/56210811/91749994-f3b41880-eb87-11ea-9c55-b48631238824.png)
 
 **Project status:** Complete ✅
 
-![readme-banner](https://user-images.githubusercontent.com/56210811/91749994-f3b41880-eb87-11ea-9c55-b48631238824.png)
+[See the site live!](https://codesandbox.io/s/asian-food-emoji-react-exercise-5p897)
 
 ## What is it?
 - A React-based webpage, describing unicode emojis associated with Asian food.
