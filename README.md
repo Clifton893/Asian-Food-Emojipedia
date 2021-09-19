@@ -3,7 +3,7 @@ A spinoff from Angela Yu's emojipedia React challenge. This was an exercise in u
 
 ![readme-banner](https://user-images.githubusercontent.com/56210811/91749994-f3b41880-eb87-11ea-9c55-b48631238824.png)
 
-**Project status:** Complete ✅
+![statusbadge](https://img.shields.io/badge/status-completed-success?style=for-the-badge)
 
 [See the site live!](https://codesandbox.io/s/asian-food-emoji-react-exercise-5p897)
 
